@@ -1,0 +1,29 @@
+{
+	"name": "travis-test-example",
+	"version": "1.0.0",
+	"devDependencies": {
+		"grunt": "^0.4.5",
+		"grunt-contrib-jshint": "^1.0.0",
+		"grunt-contrib-qunit": ">=0.2.1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/GinMu/travis-grunt-test.git"
+	},
+	"license": "MIT",
+	"dependencies": {},
+	"scripts": {
+		"test": "grunt --force"
+	},
+	"description": "[![Build Status](https://travis-ci.org/GinMu/travis-grunt-test.svg?branch=master)](https://travis-ci.org/GinMu/travis-grunt-test)",
+	"bugs": {
+		"url": "https://github.com/GinMu/travis-grunt-test/issues"
+	},
+	"homepage": "https://github.com/GinMu/travis-grunt-test#readme",
+	"main": "Gruntfile.js",
+	"keywords": [
+		"travis",
+		"qunit test"
+	],
+	"author": "smu"
+}
