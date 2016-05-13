@@ -15,11 +15,11 @@
 	"scripts": {
 		"test": "grunt --force"
 	},
-	"description": "[![Build Status](https://travis-ci.org/GinMu/travis-grunt-test.svg?branch=master)](https://travis-ci.org/GinMu/travis-grunt-test)",
+	"description": "[![Build Status](https://travis-ci.org/GinMu/travis-grunt-test.svg?branch=master)](https://travis-ci.org/jiaoqiang1/Grunt)",
 	"bugs": {
-		"url": "https://github.com/GinMu/travis-grunt-test/issues"
+		"url": "https://github.com/jiaoqiang1/Grunt/issues"
 	},
-	"homepage": "https://github.com/GinMu/travis-grunt-test#readme",
+	"homepage": "https://github.com/jiaoqiang1/Grunt#readme",
 	"main": "Gruntfile.js",
 	"keywords": [
 		"travis",
