@@ -8,14 +8,14 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/GinMu/travis-grunt-test.git"
+		"url": "git+https://github.com/jiaqiang1/Grunt.git"
 	},
 	"license": "MIT",
 	"dependencies": {},
 	"scripts": {
 		"test": "grunt --force"
 	},
-	"description": "[![Build Status](https://travis-ci.org/GinMu/travis-grunt-test.svg?branch=master)](https://travis-ci.org/jiaoqiang1/Grunt)",
+	"description": "[![Build Status](https://travis-ci.org/jiaoqiang1/Grunt.svg?branch=master)](https://travis-ci.org/jiaoqiang1/Grunt)",
 	"bugs": {
 		"url": "https://github.com/jiaoqiang1/Grunt/issues"
 	},
