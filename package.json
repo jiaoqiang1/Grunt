@@ -13,7 +13,7 @@
 	"license": "MIT",
 	"dependencies": {},
 	"scripts": {
-		"test": "bin/changji.sh"
+		"test": "bin/chengji.sh"
 	},
 	"description": "[![Build Status](https://travis-ci.org/jiaoqiang1/Grunt.svg?branch=master)](https://travis-ci.org/jiaoqiang1/Grunt)",
 	"bugs": {
