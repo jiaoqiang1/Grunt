@@ -1,2 +1,2 @@
-#！/bin/sh
-./grunt
+#！/bin/bash
+./node_modules/grunt-cli/bin/grunt

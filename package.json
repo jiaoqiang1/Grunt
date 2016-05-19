@@ -1,29 +1,30 @@
 {
-	"name": "Grunt",
-	"version": "1.0.0",
-	"devDependencies": {
-		"grunt": "^0.4.5",
-		"grunt-contrib-jshint": "^1.0.0",
-		"grunt-contrib-qunit": ">=0.2.1"
-	},
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/jiaqiang1/Grunt.git"
-	},
-	"license": "MIT",
-	"dependencies": {},
-	"scripts": {
-		"test": "bin/grunt.sh"
-	},
-	"description": "[![Build Status](https://travis-ci.org/jiaoqiang1/Grunt.svg?branch=master)](https://travis-ci.org/jiaoqiang1/Grunt)",
-	"bugs": {
-		"url": "https://github.com/jiaoqiang1/Grunt/issues"
-	},
-	"homepage": "https://github.com/jiaoqiang1/Grunt#readme",
-	"main": "Gruntfile.js",
-	"keywords": [
-		"travis",
-		"qunit test"
-	],
-	"author": "smu"
+  "name": "Grunt",
+  "version": "1.0.0",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-jshint": "^1.0.0",
+    "grunt-contrib-qunit": ">=0.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiaqiang1/Grunt.git"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "scripts": {
+    "test": "bin/grunt.sh"
+  },
+  "description": "[![Build Status](https://travis-ci.org/jiaoqiang1/Grunt.svg?branch=master)](https://travis-ci.org/jiaoqiang1/Grunt)",
+  "bugs": {
+    "url": "https://github.com/jiaoqiang1/Grunt/issues"
+  },
+  "homepage": "https://github.com/jiaoqiang1/Grunt#readme",
+  "main": "Gruntfile.js",
+  "keywords": [
+    "travis",
+    "qunit test"
+  ],
+  "author": "smu"
 }
