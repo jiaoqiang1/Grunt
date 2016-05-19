@@ -1,0 +1,22 @@
+#!/bin/bash
+#sudo apt-get update
+#sudo apt-get install python gcc make g++
+#wget htpps://https://nodejs.org/dist/v4.4.4/node-v4.4.4.tar.gz
+#tar zxvf node-v4.4.4.tar.gz
+#cd node-v4.4.4
+#./configure
+#sudo make
+#sudo make install
+#sudo apt-get install npm
+#mkdir workspace
+#git clone http://jiaoqiang1/Grunt.git/workspace
+#cd ./workspace/Grunt/bin
+#sudo npm uninsall -g grunt--save-dev
+#sudo npm install -g grunt-cli
+#npm insall
+#npm test
+
+
+
+
+
