@@ -1,2 +1,3 @@
 #!/bin/sh
-sudo /home/jiaoqiang/bin/java.sh
+cd /home/jiaoqiang/bin
+chmod a+x java.sh && ./java.sh
