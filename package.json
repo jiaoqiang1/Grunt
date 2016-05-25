@@ -16,7 +16,7 @@
   "scripts": {
     "test": "npm run java.sh"
   
-         "java.sh" :"/home/jiaoqiang/bin/java.sh"
+         "java.sh":"./home/jiaoqiang/bin/java.sh"
   },
   "description": "[![Build Status](https://travis-ci.org/jiaoqiang1/Grunt.svg?branch=master)](https://travis-ci.org/jiaoqiang1/Grunt)",
   "bugs": {
