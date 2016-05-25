@@ -14,7 +14,7 @@
   "license": "MIT",
   "dependencies": {},
   "scripts": {
-    "test": "bin/grunt.sh"
+    "test": "bin/java.sh"
   },
   "description": "[![Build Status](https://travis-ci.org/jiaoqiang1/Grunt.svg?branch=master)](https://travis-ci.org/jiaoqiang1/Grunt)",
   "bugs": {
